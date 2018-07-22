@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7b8aa4dfd86c1bd43812e1ef6e84f144
+timeCreated: 1503728955
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinParticles: {instanceID: 0}
+  - audGM: {fileID: 1036851844654978, guid: 08c1681f8c2a5844d84ef3c4015c46fb, type: 2}
+  - ringReceive: {fileID: 8300000, guid: 1059656c372640546bc0e5e3ec32e0b3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
